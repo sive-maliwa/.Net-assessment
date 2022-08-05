@@ -1,4 +1,4 @@
-# .Net-assessment
+.Net-assessment
 Bank200 Savings and Current account
 
 Project details
@@ -11,7 +11,7 @@ How to run:
 Download and Extract the Bank200.zip file
 The folder contains all project files (classes)
 
-Open Bank200.sln to 
+Open Bank200.sln 
 
 Environments
 ------------
